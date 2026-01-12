@@ -15,6 +15,14 @@ to identify key factors influencing customer churn and retention.
 The dataset includes customer demographics, service usage details,
 payment methods, tenure, and churn status.
 
+## 📊 Key Visualizations
+
+### Churn by Contract Type
+![Churn by Contract Type](images/Churn_by_contract.png)
+
+### Customer Tenure vs Churn
+![Customer Tenure vs Churn](images/Tenure_vs_Churn.png)
+
 ## Key Insights
 - Around **26.5% of customers have churned**.
 - **Senior citizens** show a higher churn rate.
@@ -34,6 +42,8 @@ and payment methods. These insights can support better retention strategies.
 ## Author
 **Aryan Kumar**  
 Aspiring Data Analyst
+
+
 
 
 
