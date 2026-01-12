@@ -17,8 +17,6 @@ payment methods, tenure, and churn status.
 
 ## 📊 Key Visualizations
 
-## 📊 Key Visualizations
-
 ### Churn by Contract Type
 ![Churn by Contract Type](./image/Churn%20by%20contract.png)
 
@@ -45,6 +43,7 @@ and payment methods. These insights can support better retention strategies.
 ## Author
 **Aryan Kumar**  
 Aspiring Data Analyst
+
 
 
 
