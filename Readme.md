@@ -17,11 +17,14 @@ payment methods, tenure, and churn status.
 
 ## 📊 Key Visualizations
 
+## 📊 Key Visualizations
+
 ### Churn by Contract Type
-![Churn by Contract Type](images/Churn_by_contract.png)
+![Churn by Contract Type](./image/Churn%20by%20contract.png)
 
 ### Customer Tenure vs Churn
-![Customer Tenure vs Churn](images/Tenure_vs_Churn.png)
+![Customer Tenure vs Churn](./image/Customer%20Tenure%20vs%20Churn.png)
+
 
 ## Key Insights
 - Around **26.5% of customers have churned**.
@@ -42,6 +45,9 @@ and payment methods. These insights can support better retention strategies.
 ## Author
 **Aryan Kumar**  
 Aspiring Data Analyst
+
+
+
 
 
 
